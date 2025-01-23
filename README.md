@@ -1,2 +1,2 @@
 # week1-supplychain-powerbi1
-analysis on powerbi
+dashboard used for analysis of sustainable supply chain using powerbi
